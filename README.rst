@@ -81,3 +81,5 @@ useful information.
 .. |logo| image:: logo.svg
     :width: 24pt
     :height: 24pt
+    
+    https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FTeamInfinitybots%2FTelethon.git
