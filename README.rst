@@ -2,7 +2,8 @@ Telethon
 ========
 .. epigraph::
 
-  ⭐️ Thanks **everyone** who has starred the project, it means a lot!
+  ⭐️ Thanks **everyone** who has starred the project, it means 
+  https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FTeamInfinitybots%2FTelethon.git
 
 |logo| **Telethon** is an asyncio_ **Python 3**
 MTProto_ library to interact with Telegram_'s API
